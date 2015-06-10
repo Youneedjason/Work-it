@@ -1,0 +1,482 @@
+.version.index /* version checker */
+{
+	color: #0000E3;
+	background-color: #CE4565;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1773.7876690331311px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#pu111
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u111
+{
+	z-index: 2;
+	min-height: 789px;
+	background: transparent url("../images/desktopsketchbookopt.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u584
+{
+	z-index: 28;
+	width: 281px;
+	height: 279px;
+	margin-bottom: -13px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 523px;
+	left: 120px;
+	background: transparent url("../images/ynjdclogovector-white.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u111-bw
+{
+	z-index: 2;
+	min-height: 789px;
+	margin-top: 994px;
+}
+
+#u75
+{
+	z-index: 3;
+	min-height: 166px;
+	padding-bottom: 389px;
+	background: transparent url("../images/blankpaperopt.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u111_align_to_page,#u75_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+}
+
+#u702
+{
+	z-index: 6;
+	width: 778px;
+	background-color: #00A4D1;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 128px;
+}
+
+#u703-4
+{
+	z-index: 7;
+	width: 658px;
+	min-height: 50px;
+	background-color: transparent;
+	line-height: 36px;
+	color: #FFFFFF;
+	font-size: 30px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-bottom: -12px;
+	position: relative;
+	margin-right: -10000px;
+	left: 120px;
+}
+
+#u206
+{
+	z-index: 15;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 879px;
+}
+
+#u196
+{
+	z-index: 11;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 57px;
+	left: 909px;
+}
+
+#u221
+{
+	z-index: 17;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 939px;
+}
+
+#u201
+{
+	z-index: 13;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 969px;
+}
+
+#u75-bw
+{
+	z-index: 3;
+	min-height: 166px;
+}
+
+#u98
+{
+	z-index: 4;
+	height: 583px;
+	background: transparent url("../images/slantleft2000x900white.png") no-repeat center top;
+	background-size: cover;
+}
+
+#u98-bw
+{
+	z-index: 4;
+	margin-top: 358px;
+	height: 583px;
+}
+
+#u110
+{
+	z-index: 5;
+	min-height: 527.6711550533587px;
+	padding-bottom: 0px;
+	background: transparent url("../images/slantleft2000x900white.png") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u110_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+	padding-top: 22px;
+	padding-bottom: 368px;
+}
+
+#u262-6
+{
+	z-index: 33;
+	width: 815px;
+	min-height: 78px;
+	background-color: transparent;
+	line-height: 22px;
+	color: #7F7F7F;
+	font-size: 18px;
+	text-align: left;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	left: 173px;
+	position: relative;
+}
+
+#menuu264
+{
+	z-index: 51;
+	width: 815px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: 173px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u265
+{
+	width: 406px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u268
+{
+	width: 406px;
+	background-color: #00A4D1;
+	padding-bottom: 8px;
+	position: relative;
+}
+
+#u268:hover
+{
+	background-color: #999999;
+	width: 406px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u268:active
+{
+	background-color: #6B6B6B;
+	width: 406px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u270-4_clip
+{
+	overflow: hidden;
+	width: 406px;
+	height: 26px;
+	vertical-align: top;
+}
+
+#u279
+{
+	width: 407px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 408px;
+}
+
+#u280
+{
+	width: 407px;
+	background-color: #00A4D1;
+	padding-bottom: 8px;
+	position: relative;
+}
+
+#u280:hover
+{
+	background-color: #999999;
+	width: 407px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u280:active
+{
+	background-color: #6B6B6B;
+	width: 407px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u270-4,#u283-4
+{
+	position: relative;
+	margin-right: -10000px;
+	top: 4px;
+}
+
+#u283-4_clip
+{
+	overflow: hidden;
+	width: 407px;
+	height: 26px;
+	vertical-align: top;
+}
+
+#u270-4_img,#u283-4_img
+{
+	display: block;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u603
+{
+	z-index: 64;
+	width: 815px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: 173px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u600
+{
+	z-index: 65;
+	width: 408px;
+	height: 3px;
+	background: -webkit-gradient(linear, left center, right center, from(#FFFFFF),color-stop(100%, #000000));
+	background: -webkit-linear-gradient(left,#FFFFFF ,#000000 100%);
+	background: linear-gradient(to right,#FFFFFF ,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFFFFFF, endColorstr=#FF000000, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FF000000', GradientType=1)";
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u602
+{
+	z-index: 66;
+	width: 408px;
+	height: 3px;
+	background: -webkit-gradient(linear, left center, right center, from(#000000),color-stop(100%, #FFFFFF));
+	background: -webkit-linear-gradient(left,#000000 ,#FFFFFF 100%);
+	background: linear-gradient(to right,#000000 ,#FFFFFF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF000000, endColorstr=#FFFFFFFF, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF000000', endColorstr='#FFFFFFFF', GradientType=1)";
+	position: relative;
+	margin-right: -10000px;
+	left: 408px;
+}
+
+#u110-bw
+{
+	z-index: 5;
+	min-height: 527.6711550533587px;
+	margin-top: 637px;
+}
+
+#u583
+{
+	z-index: 27;
+	width: 278px;
+	height: 279px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 751px;
+	background: transparent url("../images/ynjdclogovector-white.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u309-4
+{
+	z-index: 29;
+	width: 920px;
+	min-height: 26px;
+	background-color: transparent;
+	line-height: 22px;
+	text-transform: none;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1750px;
+	left: 120px;
+}
+
+#u254-8
+{
+	z-index: 39;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 514px;
+	left: 120px;
+}
+
+#u260-4
+{
+	z-index: 47;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 466px;
+	left: 120px;
+}
+
+#pu232
+{
+	width: 0.01px;
+	margin-left: 421px;
+	margin-top: 3px;
+}
+
+#u232
+{
+	z-index: 23;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u228
+{
+	z-index: 19;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 30px;
+}
+
+#u234
+{
+	z-index: 25;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 60px;
+}
+
+#u230
+{
+	z-index: 21;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 90px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

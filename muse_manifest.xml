@@ -1,0 +1,48 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1433924447134">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="portfolioresume.css" crc="4096008984" ref="portfolioresume"/>
+    <file name="index.css" crc="3821946213" ref="index"/>
+    <file name="jason-says.css" crc="181592370" ref="jason-says"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:portfolioresume:jason-says"/>
+    <file name="museutils.js" crc="521960461" ref="index:portfolioresume:jason-says"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:portfolioresume:jason-says"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="index:portfolioresume:jason-says"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:portfolioresume:jason-says"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:portfolioresume:jason-says"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolioresume:jason-says"/>
+  </folder>
+  <folder name="images">
+    <file name="desktopsketchbookopt.jpg" crc="320782011" ref="index"/>
+    <file name="ynjdclogovector-white.png" crc="34458558" ref="index:portfolioresume:jason-says"/>
+    <file name="blankpaperopt.jpg" crc="4240970342" ref="index"/>
+    <file name="linkedin-dreamstale45.png" crc="4261097347" ref="index:portfolioresume:jason-says"/>
+    <file name="facebook-dreamstale25.png" crc="465129007" ref="index:portfolioresume:jason-says"/>
+    <file name="twitter-dreamstale71.png" crc="4184547677" ref="index:portfolioresume:jason-says"/>
+    <file name="google--dreamstale37.png" crc="3957961207" ref="index:portfolioresume:jason-says"/>
+    <file name="slantleft2000x900white.png" crc="265766919" ref="index:portfolioresume:jason-says"/>
+    <file name="u270-4.png" crc="9907921" ref="index"/>
+    <file name="u283-4.png" crc="1284021" ref="index"/>
+    <file name="u254-8.png" crc="4060846574" ref="index"/>
+    <file name="u260-4.png" crc="69929327" ref="index"/>
+    <file name="color-correct-coffeeopt.jpg" crc="488160618" ref="portfolioresume"/>
+    <file name="u441-4.png" crc="326925140" ref="portfolioresume"/>
+    <file name="u571-4.png" crc="9907921" ref="portfolioresume"/>
+    <file name="u579-4-a.png" crc="1284021" ref="portfolioresume"/>
+    <file name="u718-58.png" crc="4159912420" ref="portfolioresume"/>
+    <file name="u725-67.png" crc="436637741" ref="portfolioresume"/>
+    <file name="u728-4.png" crc="416146212" ref="portfolioresume"/>
+    <file name="cuppucino1opt.jpg" crc="4274538079" ref="portfolioresume"/>
+    <file name="compass.jpg" crc="36143615" ref="jason-says"/>
+    <file name="u534-4.png" crc="3866502566" ref="jason-says"/>
+    <file name="u556-4-a.png" crc="9907921" ref="jason-says"/>
+    <file name="blank.gif" crc="4208392903" ref="jason-says"/>
+    <file name="u564.png" crc="1284021" ref="jason-says"/>
+    <file name="u564-a.png" crc="1284021" ref="jason-says"/>
+  </folder>
+  <file name="index.html" crc="3815403446" mt="1433833418774" redirect="true"/>
+  <file name="portfolioresume.html" crc="91979280" mt="1433833755201" redirect="true"/>
+  <file name="jason-says.html" crc="19743746" mt="1433923278357" redirect="true"/>
+</manifest>
